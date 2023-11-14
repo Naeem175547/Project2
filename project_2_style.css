@@ -152,5 +152,8 @@ header .search_box{
     .home_loan{
         left:70%
     }
+    .links{
+        flex-direction: column;
+    }
     
 }
